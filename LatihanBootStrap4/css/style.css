@@ -1,0 +1,98 @@
+.header {
+    background-color: rgb(245, 244, 244); 
+    width: 100%;
+    padding: 1em;
+    border-width: 1px;
+}
+
+.middle { 
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.sisikursi {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.model1 {
+  width:   50px;
+  height:  50px;
+  border-radius: 10px;
+  background-color: purple;
+
+}
+
+.model2 {
+  width:   50px;
+  height:  50px;
+  border-radius: 10px;
+  background-color: blue;
+
+}
+.model3 {
+  width:   50px;
+  height:  50px;
+  border-radius: 10px;
+  background-color: orange;
+
+}
+.model4 {
+  width:   50px;
+  height:  50px;
+  border-radius: 10px;
+  background-color: black;
+
+}
+.model5 {
+  width:   50px;
+  height:  50px;
+  border-radius: 10px;
+  background-color: brown;
+
+}
+
+.image {
+    
+    padding: 20x;
+    /* border: 1px solid; */
+    /* border-radius: 10px; */
+    width: auto;
+  
+  
+  }
+
+  .chair { 
+    height: 100%;
+    width: 80%;
+
+  }
+
+.word {
+    width: 20%;
+    padding: 20px;
+    
+}
+
+.word button { 
+    width: 100%;
+    height: auto;
+    /* border: 1px solid; */
+    border-radius: 30px;
+    background-color:pink;
+    
+/* }
+
+
+   .footer { 
+      /* background-color:rgb(168, 167, 167) ; */
+/* }
+
+.end { 
+    display:flex ;
+    width: 100%;
+    justify-content: space-around;
+} */ */
